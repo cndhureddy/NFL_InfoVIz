@@ -1,1 +1,1 @@
-# NFL_InfoVIz
+# Information-Visualization-Project
